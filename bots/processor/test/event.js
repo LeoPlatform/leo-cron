@@ -107,4 +107,4 @@ module.exports = {
 		},
 		"eventSourceARN": "arn:aws:dynamodb:us-west-2:134898387190:table/Leo_cron/stream/2016-12-13T23:06:55.647"
 	}]
-}
+};
