@@ -5,4 +5,4 @@ module.exports = {
 		AWS_DEFAULT_REGION: "us-west-2",
 		LEO_LOGGER: "/leo-cron/"
 	}
-}
+};
