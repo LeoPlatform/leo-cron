@@ -24,7 +24,7 @@
 	"dependencies": {
 		"async": "^2.6.1",
 		"deep-diff": "^0.3.8",
-		"later": "^1.2.0",
+		"@breejs/later": "^4.2.0",
 		"leo-logger": "^1.0.0",
 		"leo-sdk": "^2.2.4",
 		"lodash.merge": "^4.6.1",
