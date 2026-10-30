@@ -26,7 +26,7 @@
 		"deep-diff": "^0.3.8",
 		"later": "^1.2.0",
 		"leo-logger": "^1.0.7",
-		"leo-sdk": "7.1.22-awsv3test.0",
+		"leo-sdk": "7.1.22-awsv3node26.0",
 		"lodash.merge": "^4.6.1",
 		"moment": "^2.21.0"
 	},
