@@ -1,6 +1,6 @@
 {
 	"name": "leo-cron",
-	"version": "2.0.2-beta",
+	"version": "3.0.0",
 	"description": "Cron++",
 	"main": "index.js",
 	"scripts": {
@@ -25,10 +25,19 @@
 		"async": "^2.6.1",
 		"deep-diff": "^0.3.8",
 		"later": "^1.2.0",
-		"leo-logger": "^1.0.0",
-		"leo-sdk": "^2.2.4",
+		"leo-logger": "^1.0.7",
+		"leo-sdk": "7.1.22-awsv3test.0",
 		"lodash.merge": "^4.6.1",
 		"moment": "^2.21.0"
+	},
+	"peerDependencies": {
+		"@aws-sdk/client-dynamodb": "^3.1022.0",
+		"@aws-sdk/client-ec2": "^3.1022.0",
+		"@aws-sdk/client-ecs": "^3.1022.0",
+		"@aws-sdk/client-lambda": "^3.1022.0",
+		"@aws-sdk/client-sns": "^3.1022.0",
+		"@aws-sdk/lib-dynamodb": "^3.1022.0",
+		"@aws-sdk/util-dynamodb": "^3.996.0"
 	},
 	"devDependencies": {
 		"babel-preset-env": "^1.6.1"
